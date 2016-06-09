@@ -1,0 +1,12 @@
+{
+    "name": "amitaymolko/KeepItSimpleHackathon",
+    "description": "KeepItSimpleHackathon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amitay Molko",
+            "email": "amitaymolko@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
